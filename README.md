@@ -1,10 +1,8 @@
 # Data-Science
 
-Hola, primer mensaje en Github
+Hi, this is my Data Science fodler. Hope you join it!
 
-Agrego una linea
 
-Hago un cambio extra a ver que pasa
 
-Y ahora...
+
 
